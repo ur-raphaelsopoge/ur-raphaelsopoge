@@ -83,7 +83,6 @@
 <p align="center">
   <a href="https://x.com/Rap142352"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="John Raphael Abiño's Twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:johnraphaelabino@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="John Raphael Abiño's Email"/></a>
-  <a href="https://www.tiktok.com/@ur.raphaelabino"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 <p align="center">
@@ -93,6 +92,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
 
 
 
