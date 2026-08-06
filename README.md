@@ -1,10 +1,11 @@
 <div align="center">
 
+ 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A970FF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%A7%2C+I'm+John+Raphael;Full-Stack+Web+Developer;Linux+%26+Aesthetics+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%A7%2C+I'm+John+Raphael;Full-Stack+Web+Developer;Linux+%26+Aesthetics+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <p><i>Building smooth web apps with Laravel, PHP, and modern UI/UX design.</i></p>
+  <p><i>UI/UX</i></p>
 
   <p>
     <a href="https://github.com/ur-raphaelsopoge"><img src="https://img.shields.io/github/followers/ur-raphaelsopoge?style=social" alt="Followers"></a>
@@ -35,23 +36,24 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
+  
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ur-raphaelsopoge&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur-raphaelsopoge&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ur-raphaelsopoge&show_icons=true&theme=synthwave&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ur-raphaelsopoge&layout=compact&theme=synthwave&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
   </p>
 
  
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ur-raphaelsopoge&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ur-raphaelsopoge&bg_color=0d1117&color=ff69b4&line=ff1493&point=ffffff&area=true&area_color=ff69b4&title_color=ff69b4&hide_border=true" width="100%" alt="Pink Contribution Graph" />
   </p>
 </div>
 
 <br />
 
-### 💬 Random Dev Quote
+### 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Dev Quote" />
 </div>
 
 <br />
@@ -59,5 +61,6 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ and tuned for high aesthetic.</sub>
+  <sub>From <a href="https://github.com/ur-raphaelsopoge">ur-raphaelsopoge</a></sub>
 </div>
+
