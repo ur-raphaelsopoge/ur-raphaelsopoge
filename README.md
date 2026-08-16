@@ -21,7 +21,6 @@
   <a href="https://github.com/ur-raphaelsopoge">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ur-raphaelsopoge&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ur-raphaelsopoge's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ur-raphaelsopoge&theme=radical&hide_border=true&cache_seconds=86400" alt="ur-raphaelsopoge's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ur-raphaelsopoge&theme=radical&radius=10" alt="ur-raphaelsopoge's Activity Graph" />
