@@ -12,11 +12,11 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-##   My Focus Areas
+##  🧠 My Focus Areas
 - UI  / UX
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/ur-raphaelsopoge">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ur-raphaelsopoge&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ur-raphaelsopoge's GitHub Stats" />
@@ -27,7 +27,7 @@
 </p>
 
 
-##  Languages & Tools
+##  🛠️  Tech Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
