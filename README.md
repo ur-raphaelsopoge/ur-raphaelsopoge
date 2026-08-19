@@ -79,7 +79,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/58/2e/c4/582ec4036fb224756a41f81ddc4a229f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://i.pinimg.com/originals/96/25/ba/9625ba36acc0a0903ebadb5026268fae.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
