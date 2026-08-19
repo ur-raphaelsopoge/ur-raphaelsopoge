@@ -79,7 +79,7 @@
 </p>
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/221/221619.gif" alt="Bottom Line" width="100%" />
+  <img src="https://i.pinimg.com/originals/58/2e/c4/582ec4036fb224756a41f81ddc4a229f.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
