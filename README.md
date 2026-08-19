@@ -79,7 +79,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/fd/45/79/fd4579cfa198c2d88bee22e4d102749c.gif" alt="Bottom Line" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR0aXJ0M3BxbjRsaWY2Zmh5dW0yY3lkejhicmdqcDc1bjNqNWVxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrtxxe638kXlhKBDxg/giphy.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
