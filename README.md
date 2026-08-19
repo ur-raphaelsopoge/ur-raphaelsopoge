@@ -12,7 +12,7 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## 🧠 My Focus Areas
+##   My Focus Areas
 - UI  / UX
 
 
@@ -27,7 +27,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -79,7 +79,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/96/25/ba/9625ba36acc0a0903ebadb5026268fae.gif" alt="Bottom Line" width="100%" />
+  <img src="https://i.pinimg.com/originals/fd/45/79/fd4579cfa198c2d88bee22e4d102749c.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
