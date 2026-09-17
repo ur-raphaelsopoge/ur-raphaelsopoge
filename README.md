@@ -36,7 +36,7 @@
 
 <div align="center">
 <h2>
-  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Toolbox.webp?raw=true"
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Food%20and%20Drink/Lollipop.webp?raw=true"
        width="40"
        height="40"
        style="vertical-align: middle;" />
