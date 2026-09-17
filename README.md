@@ -72,15 +72,22 @@
 ![Top language](https://stats.pphat.top/languages?username=ur-raphaelsopoge)
 <br/>
 
-<h2>
-  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/People/Biting%20Lip.webp?raw=true" 
-       width="40" 
-       height="40" 
-       style="vertical-align: middle;" />
-  Connect with Me
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/People/Biting%20Lip.webp?raw=true" 
+         width="50" 
+         height="50" 
+         style="vertical-align: middle;" />
+    Connect with Me
+  </h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raphaelabino) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ur.raphaelabino)
+  <a href="https://instagram.com/raphaelabino">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@ur.raphaelabino">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="40" alt="TikTok" />
+  </a>
+</div>
 
 
 <p align="center">
