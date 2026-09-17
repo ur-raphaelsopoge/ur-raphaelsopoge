@@ -19,8 +19,9 @@
        style="vertical-align: middle;" />
    My Focus Areas
 </h2>
-- UI  / UX
-
+<p align="center">
+  UI/UX
+</p>
 <h2>
   <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Travel%20and%20Places/Rocket.webp?raw=true"
        width="40"
@@ -79,7 +80,6 @@
 ![Top language](https://stats.pphat.top/languages?username=ur-raphaelsopoge)
 <br/>
 
-<div align="center">
   <h2>
     <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/People/Biting%20Lip.webp?raw=true" 
          width="50" 
@@ -87,7 +87,8 @@
          style="vertical-align: middle;" />
     Connect with Me
   </h2>
-
+  
+  <div align="center">
   <a href="https://instagram.com/raphaelabino">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" alt="Instagram" />
   </a>
