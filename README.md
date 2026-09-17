@@ -103,7 +103,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/fd/45/79/fd4579cfa198c2d88bee22e4d102749c.gif" alt="Bottom Line" width="100%" />
+  <img src="https://i.pinimg.com/originals/55/61/f9/5561f9ff936b7f4553387851f3f1a365.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
