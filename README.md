@@ -23,7 +23,13 @@
   </a>
 </p>
 
-##  🛠️  Tech Stack
+<h2>
+  <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Objects/Toolbox.webp?raw=true"
+       width="40"
+       height="40"
+       style="vertical-align: middle;" />
+  Tech Stack
+</h2>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
