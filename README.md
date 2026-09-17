@@ -33,9 +33,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ur-raphaelsopoge&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ur-raphaelsopoge's GitHub Stats" />
   </a>
 </p>
-
-<div align="center">
-<div align="center">
   <h2>
     <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/Food%20and%20Drink/Lollipop.webp?raw=true"
          width="40"
