@@ -103,7 +103,8 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/55/61/f9/5561f9ff936b7f4553387851f3f1a365.gif" alt="Bottom Line" width="100%" />
+  <img src="<img width="1280" height="720" alt="5561f9ff936b7f4553387851f3f1a365" src="https://github.com/user-attachments/assets/4e2113c6-9573-488b-816d-7584f917567e" />
+" alt="Bottom Line" width="100%" />
 </div>
 
 
