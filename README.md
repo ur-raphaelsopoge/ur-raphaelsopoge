@@ -40,7 +40,7 @@
          style="vertical-align: middle;" />
     Tech Stack
   </h2>
-
+<div align="center">
   <h3>Programming Languages</h3>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />&nbsp;&nbsp;&nbsp;
