@@ -74,11 +74,12 @@
 
 <h2>
   <img src="https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/blob/main/People/Biting%20Lip.webp?raw=true" 
-    width="40"
-    height="40"
-    style="vertical-align: middle;" />
-  ## Connect with Me
+       width="40" 
+       height="40" 
+       style="vertical-align: middle;" />
+  Connect with Me
 </h2>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raphaelabino) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ur.raphaelabino)
 
 
